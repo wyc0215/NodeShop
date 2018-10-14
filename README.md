@@ -1,12 +1,10 @@
 ## shop-bend
 
----
 
 后端的api接口，**nodejs + mysql + express + redis + rsa** 实现
 
 ## shop-fend
 
----
 
 Vue2.x实现的前端app页面
 
