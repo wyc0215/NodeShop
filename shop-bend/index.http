@@ -1,0 +1,3 @@
+GET http://127.0.0.1:3000/api/json/shop/index HTTP/1.1
+content-type: application/json
+token : "csLYAGBfv5VvkH/R623nXPvoPsVtdielryGPtLGi2VUHyeuHKlmz31aNzbKZm5IXWTA5ek/1O/4JTq11iw3gmJy/eYxdzgZQwMgHx28z/eg7VMs9s8hbN2xa7+/UdTiSjteluqs5Bwk1lMjqWosfphIOagYLU7gE1/l+z494Qxw="
